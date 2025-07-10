@@ -1,0 +1,27 @@
+# Executive Summary - Trading Sentiment Analysis
+
+## Key Findings
+
+**Contrarian Trading Behavior Discovered:**
+- Strong negative correlation (-0.572) between Fear & Greed Index and trading volume
+- Traders increase volume by 17.9x during fear periods
+- $6.7M profits in fear vs $1.1M in greed periods
+
+**Market Opportunity Exploitation:**
+- 3.3x more asset diversification during fear (154 vs 47 coins)
+- 7.2x higher trading intensity per account during fear periods
+- Clear evidence of sophisticated counter-sentiment strategies
+
+**Strategic Trading Signals:**
+- Fear periods (Index < 50): Scale UP exposure, diversify broadly
+- Greed periods (Index > 70): Scale DOWN exposure, be selective
+- ROI analysis shows fear periods offer superior opportunities
+
+**Methodology:**
+- 211,224 trades analyzed from Hyperliquid exchange
+- 2,644 sentiment readings from Fear & Greed Index  
+- 6 overlapping dates (2023-2025) with 184,263 trades
+- Correlation analysis, daily aggregation, risk-return profiling
+
+**Conclusion:**
+Analysis reveals sophisticated contrarian trading behavior where fear periods consistently offer superior profit opportunities through higher volume, greater diversification, and increased market participation.
